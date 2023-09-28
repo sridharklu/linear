@@ -1,0 +1,23 @@
+.App {
+  margin: 0%;
+  padding: 0%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   width: 100vw;
+   height: 60vh;
+   background-color: white;
+   color: var(--dark-color);
+   
+
+}
+.suggestion{
+  cursor:pointer;
+  border:1px;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  }
+  .suggestion:hover{
+  background-color: grey;
+  }
+
+
